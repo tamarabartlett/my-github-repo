@@ -1,1 +1,3 @@
-Just being used to test a thing
+Just being used to test a thing.
+
+Adding something else to the thing.
